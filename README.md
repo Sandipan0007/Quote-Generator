@@ -7,5 +7,5 @@ Hosted Link: https://sandipan0007.github.io/Quote-Generator/
 
 Role: Developer
 
-Tech Stack: HTML, CSS, Vanilla JavaScript, Quote Api(https://type.fit/api/quotes)
+Tech Stack: HTML, CSS, Vanilla JavaScript, Quote API(https://type.fit/api/quotes)
 
